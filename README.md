@@ -1,2 +1,2 @@
-# C-programs
-Contains all assignments/tutorials related to C programming
+# Lab 1
+Contains all programs related to LAB 1
