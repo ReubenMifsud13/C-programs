@@ -7,7 +7,7 @@ int main(void)
 {
 
     int feet, fathoms; /*Declaration of integer variables: feet & fathoms are symbolic identifiers - they are the variable names of 2 integer variables respectively
-                        A storage area of 2 or 4 bytes is created and is represented by the variable name*/
+                        A storage area of 2 or 4 bytes (int) is created and is represented by the variable name*/
 
 
 
